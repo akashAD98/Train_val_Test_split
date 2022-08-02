@@ -8,3 +8,14 @@ upload file inside yolov5/
 ```!python train_val_test.py``` 
 
 will get 3 text files - train,valid,test files
+
+
+
+# method 2
+
+create images
+annotations folder
+& paste all data here
+
+& run
+```python yolov7_split.py```
